@@ -1,0 +1,2 @@
+/Users/Julian[[:space:]]Estrada/Desktop/project-1/indicators.csv filter=lfs diff=lfs merge=lfs -text
+indicators.csv filter=lfs diff=lfs merge=lfs -text
